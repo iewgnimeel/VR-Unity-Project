@@ -22,11 +22,14 @@ public class PlayerMovement : MonoBehaviour
 
     private bool canMove = true;
 
+    private Animator animator;
+
     void Start()
     {
         characterController = GetComponent<CharacterController>();
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
+        animator = GetComponentInChildren<Animator>();
     }
 
     void Update()
@@ -77,5 +80,8 @@ public class PlayerMovement : MonoBehaviour
             playerCamera.transform.localRotation = Quaternion.Euler(rotationX, 0, 0);
             transform.rotation *= Quaternion.Euler(0, Input.GetAxis("Mouse X") * lookSpeed, 0);
         }
+        Vector3 horizontalVelocity = new Vector3(characterController.velocity.x, 0, characterController.velocity.z);
+        animator.SetFloat("Speed", horizontalVelocity.magnitude);
+
     }
 }
