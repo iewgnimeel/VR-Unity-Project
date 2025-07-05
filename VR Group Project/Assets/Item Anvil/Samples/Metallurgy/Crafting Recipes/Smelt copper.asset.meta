@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3031f0bd053f8d242b8d878ae6b07558
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/Samples/Metallurgy/Crafting Recipes/Smelt copper.asset
+  uploadId: 595952

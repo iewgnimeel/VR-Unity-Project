@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1326adb9ebbec114688cb434f208c4f7
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/Runtime/Tooltip Subsystem/Core/ItemAnvil.Tooltips.Core.asmdef
+  uploadId: 595952

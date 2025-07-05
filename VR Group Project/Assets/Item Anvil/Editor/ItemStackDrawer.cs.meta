@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: aa90009c410473b4a9030d358bf4fa9e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/Editor/ItemStackDrawer.cs
+  uploadId: 595952

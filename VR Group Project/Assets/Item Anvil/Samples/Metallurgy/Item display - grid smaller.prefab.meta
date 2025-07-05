@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7cfaad9d8929f764eaa3a149a71777b8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/Samples/Metallurgy/Item display - grid smaller.prefab
+  uploadId: 595952

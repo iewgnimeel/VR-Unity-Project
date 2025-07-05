@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 06672a5881b388f47b68eb01a245ec90
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/Prefabs/List inventory.prefab
+  uploadId: 595952

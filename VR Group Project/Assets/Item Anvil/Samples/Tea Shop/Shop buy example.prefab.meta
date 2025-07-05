@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 06e8d8f92ceff98428748e024604d74c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/Samples/Tea Shop/Shop buy example.prefab
+  uploadId: 595952

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0eb9311d6ed426745872cda81af41eaa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/Runtime/Built-ins/MaxStackSize.cs
+  uploadId: 595952

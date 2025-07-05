@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 63c8bd5c5977e49468b9ba942e076088
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/Samples/Metallurgy/Metallurgy.unity
+  uploadId: 595952

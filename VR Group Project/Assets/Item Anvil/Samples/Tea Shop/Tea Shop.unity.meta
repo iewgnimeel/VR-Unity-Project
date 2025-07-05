@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a8c9c59dc58877649b3aff500baaa325
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/Samples/Tea Shop/Tea Shop.unity
+  uploadId: 595952

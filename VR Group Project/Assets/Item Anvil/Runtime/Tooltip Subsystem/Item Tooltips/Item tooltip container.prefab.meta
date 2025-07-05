@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 84aeaba89b658f44a87b368b51f710b0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/Runtime/Tooltip Subsystem/Item Tooltips/Item tooltip
+    container.prefab
+  uploadId: 595952

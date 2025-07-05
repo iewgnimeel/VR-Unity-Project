@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b12d0f8a4055f0c4f953b352357ce9dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/Runtime/Tooltip Subsystem/Integrations/InputSystem/Runtime/InputDisplayRecord.cs
+  uploadId: 595952

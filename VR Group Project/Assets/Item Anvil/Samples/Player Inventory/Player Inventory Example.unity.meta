@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9d005349bdbdbae4db150da4441a6834
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/Samples/Player Inventory/Player Inventory Example.unity
+  uploadId: 595952

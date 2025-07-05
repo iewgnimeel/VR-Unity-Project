@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 59961a6a4f86ae44582015d75666b7a7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/Samples/Metallurgy/Prefabs/Sell to shop.prefab
+  uploadId: 595952

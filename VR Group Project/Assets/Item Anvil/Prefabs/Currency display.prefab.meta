@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d01410650847dde47be9cd779519cb97
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/Prefabs/Currency display.prefab
+  uploadId: 595952

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3ad483155b8e318488fcc446041242c3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/Runtime/Tooltip Subsystem/Item Tooltips/Buy-sell tooltip.prefab
+  uploadId: 595952

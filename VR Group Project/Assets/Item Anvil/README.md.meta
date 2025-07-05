@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1c05a7c96186d804594217e560f97620
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/README.md
+  uploadId: 595952

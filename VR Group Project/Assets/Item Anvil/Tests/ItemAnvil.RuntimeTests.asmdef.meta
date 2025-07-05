@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6e8d8cc5c7fc9fc4c979a41a4620292f
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/Tests/ItemAnvil.RuntimeTests.asmdef
+  uploadId: 595952

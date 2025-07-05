@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3a9f7f11fa4996645a2e0f3959431ecf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/Runtime/Core/UI/ViewFilterMatches.cs
+  uploadId: 595952

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0ff35d7348a185d4ca72a0dff9f87f72
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 251538
+  packageName: 'Item Anvil: RPG-style modular items'
+  packageVersion: 0.5.0
+  assetPath: Assets/Item Anvil/Samples/Metallurgy/Items/Tin Ore.asset
+  uploadId: 595952
