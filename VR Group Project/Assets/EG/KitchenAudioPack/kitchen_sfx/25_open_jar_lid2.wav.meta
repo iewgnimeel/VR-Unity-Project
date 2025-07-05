@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: d0f15ca8732327246aeb5505bc498e04
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 237826
+  packageName: Kitchen Audio Pack
+  packageVersion: 1.0
+  assetPath: Assets/EG/KitchenAudioPack/kitchen_sfx/25_open_jar_lid2.wav
+  uploadId: 563985
