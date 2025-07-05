@@ -23,6 +23,8 @@ public class PlayerMovement : MonoBehaviour
     private bool canMove = true;
 
     private Animator animator;
+    public AudioClip jumpSound;
+    private AudioSource audioSource;
 
     void Start()
     {
@@ -30,6 +32,7 @@ public class PlayerMovement : MonoBehaviour
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
         animator = GetComponentInChildren<Animator>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     void Update()
@@ -54,6 +57,7 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetButton("Jump") && canMove && characterController.isGrounded)
         {
             moveDirection.y = jumpPower;
+            audioSource.PlayOneShot(jumpSound);
         }
         else
         {
